@@ -1,4 +1,8 @@
 ### Hi there 👋
+### GitHub Stat 🔍
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dumidu1998)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 
 <!--
 **dumidu1998/dumidu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
