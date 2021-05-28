@@ -13,6 +13,16 @@
 ### GitHub Stat 🔍
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dumidu1998)](https://github.com/LordDashMe/github-contribution-stats/)
 
+## GitHub Analytics Visualization 🔎
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumidu1998&theme=monokai)
+
+### Language Stat
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dumidu1998&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dumidu1998&theme=monokai)
+
+### GitHub Stat 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumidu1998&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dumidu1998&theme=monokai)
 
 
 <!--
