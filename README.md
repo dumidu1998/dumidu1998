@@ -14,10 +14,6 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dumidu1998)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
-### GitHub Stat 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dumidu1998&theme=monokai)
-
-
 ## GitHub Analytics Visualization 🔎
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumidu1998&theme=monokai)
 
