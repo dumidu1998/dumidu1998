@@ -13,13 +13,13 @@
 ### GitHub Stat 🔍
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dumidu1998)](https://github.com/LordDashMe/github-contribution-stats/)
 
-
+<!--
 ## GitHub Analytics Visualization 🔎
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dumidu1998&theme=monokai)
+-->
 
 
 
-<!--
 **dumidu1998/dumidu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
