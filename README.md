@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/dumidukasun98/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### GitHub Stat 🔍
+### GitHub Stats 🔍
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dumidu1998)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
