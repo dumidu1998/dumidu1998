@@ -3,6 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=dumidu1998&label=Visitors&color=9acd32&style=for-the-badge"> 
 </p>
 
+
 <h3 align="left"> 📱 Connect with me</h3>
 <p align="left">
 <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
